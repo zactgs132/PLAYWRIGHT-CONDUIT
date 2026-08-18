@@ -1,0 +1,19 @@
+{
+    "article": {
+        "slug": "asdf-64828",
+        "title": "asdf",
+        "description": "asdf",
+        "body": "asdf",
+        "tagList": [],
+        "createdAt": "2026-08-17T01:13:14.316Z",
+        "updatedAt": "2026-08-17T01:13:14.316Z",
+        "favorited": false,
+        "favoritesCount": 0,
+        "author": {
+            "username": "Jimothy",
+            "bio": null,
+            "image": "https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg",
+            "following": false
+        }
+    }
+}
